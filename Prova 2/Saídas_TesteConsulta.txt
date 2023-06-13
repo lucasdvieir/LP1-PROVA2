@@ -1,0 +1,16 @@
+Data: 15/06/2023
+Hora: 10:30:00
+Nome do Paciente: João
+Nome do Médico: Dr. Silva
+
+Data: 18/03/1993
+Hora: 10:05:00
+Nome do Paciente: 
+Nome do Médico: 
+
+Data: 13/06/2023
+Hora: 11:25:00
+Nome do Paciente: Lucas
+Nome do Médico: Dr. joAO
+
+Quantidade final de consultas: 2
